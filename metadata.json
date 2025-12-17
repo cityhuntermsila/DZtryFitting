@@ -1,0 +1,7 @@
+{
+  "name": "DZtryFitting",
+  "description": "A virtual clothing try-on platform allowing users to visualize garments on AI-generated models with various poses.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
